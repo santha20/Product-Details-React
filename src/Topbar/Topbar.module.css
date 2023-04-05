@@ -1,0 +1,21 @@
+
+.Topbar {
+    background-color: hsl(218, 6%, 37%);
+    padding:  24px 0px 12px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10%;
+    display: flex;
+  }
+  
+  .Topbar > img {
+    /* width: 100px; */
+    width: 200px;
+    height: 100px;
+    margin-top: -20px;
+    margin-left: 600px;
+  }
+  
